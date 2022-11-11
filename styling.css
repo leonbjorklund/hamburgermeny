@@ -1,3 +1,47 @@
 * {
-    margin: 10px;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.headBar {
+    margin: 0;
+    width: 100%;
+    height: 70px;
+    background-color: #323232;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hamburgerMenu {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+.make-100vh {
+    display: block;
+    position: absolute;
+    background-color: #323232;
+    width: 100%;
+    height: 100vh;
+}
+
+.fa-solid {
+    color: white;
+}
+
+.logo-text {
+    color: white;
+    font-size: 1.2rem;
+}
+
+.search-icon {
+    margin-left: 15px;
+    margin-right: 15px;
 }
