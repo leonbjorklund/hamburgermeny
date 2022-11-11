@@ -45,3 +45,11 @@ html {
     margin-left: 15px;
     margin-right: 15px;
 }
+
+.about {
+    display: none;
+}
+
+.hide-about {
+    display: inline-block;
+}
